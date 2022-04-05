@@ -1,0 +1,1739 @@
+[
+{
+  "model": "mapa.cidade",
+  "pk": 2,
+  "fields": {
+    "nome": "Colonia del Sacramento",
+    "coordenadas": "SRID=4326;POINT (-57.8400024734013 -34.4799990054175)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 3,
+  "fields": {
+    "nome": "Trinidad",
+    "coordenadas": "SRID=4326;POINT (-56.9009965601587 -33.5439989373607)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 4,
+  "fields": {
+    "nome": "Fray Bentos",
+    "coordenadas": "SRID=4326;POINT (-58.3039974719095 -33.1389990288435)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 5,
+  "fields": {
+    "nome": "Canelones",
+    "coordenadas": "SRID=4326;POINT (-56.2840014932431 -34.5380040066755)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 6,
+  "fields": {
+    "nome": "Florida",
+    "coordenadas": "SRID=4326;POINT (-56.2149984479942 -34.0990020052172)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 7,
+  "fields": {
+    "nome": "Bassar",
+    "coordenadas": "SRID=4326;POINT (0.789003573778132 9.26100006831723)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 8,
+  "fields": {
+    "nome": "Sotouboua",
+    "coordenadas": "SRID=4326;POINT (0.98499646233131 8.5570021330571)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 9,
+  "fields": {
+    "nome": "Medenine",
+    "coordenadas": "SRID=4326;POINT (10.4166995575967 33.3999990024673)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 10,
+  "fields": {
+    "nome": "Kebili",
+    "coordenadas": "SRID=4326;POINT (8.9710025379012 33.6899970349206)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 11,
+  "fields": {
+    "nome": "Tataouine",
+    "coordenadas": "SRID=4326;POINT (10.4667035894155 33.0000031543208)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 12,
+  "fields": {
+    "nome": "L'Ariana",
+    "coordenadas": "SRID=4326;POINT (10.1999975474793 36.8666731534449)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 13,
+  "fields": {
+    "nome": "Jendouba",
+    "coordenadas": "SRID=4326;POINT (8.749998614579111 36.5000040594261)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 14,
+  "fields": {
+    "nome": "Kasserine",
+    "coordenadas": "SRID=4326;POINT (8.71669850332046 35.2167031048242)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 15,
+  "fields": {
+    "nome": "Sdid Bouzid",
+    "coordenadas": "SRID=4326;POINT (9.50000448225563 35.0166960791497)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 16,
+  "fields": {
+    "nome": "Siliana",
+    "coordenadas": "SRID=4326;POINT (9.38330159965864 36.0833041252355)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 17,
+  "fields": {
+    "nome": "Mahdia",
+    "coordenadas": "SRID=4326;POINT (11.040876615322 35.4839130445027)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 18,
+  "fields": {
+    "nome": "Monastir",
+    "coordenadas": "SRID=4326;POINT (10.767294561862 35.7307021351512)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 19,
+  "fields": {
+    "nome": "Zaghouan",
+    "coordenadas": "SRID=4326;POINT (10.1469966065922 36.3999961612719)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 20,
+  "fields": {
+    "nome": "Tây Ninh",
+    "coordenadas": "SRID=4326;POINT (106.146999683054 11.3229991093637)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 21,
+  "fields": {
+    "nome": "Luan Chau",
+    "coordenadas": "SRID=4326;POINT (103.343004679888 21.7400039918551)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 22,
+  "fields": {
+    "nome": "Bắc Kạn",
+    "coordenadas": "SRID=4326;POINT (105.8333333 22.1333333)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 23,
+  "fields": {
+    "nome": "Lạng Sơn",
+    "coordenadas": "SRID=4326;POINT (106.757001576015 21.8459971029953)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 24,
+  "fields": {
+    "nome": "Sơn La",
+    "coordenadas": "SRID=4326;POINT (103.910004651102 21.3280021387493)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 25,
+  "fields": {
+    "nome": "Tuyên Quang",
+    "coordenadas": "SRID=4326;POINT (105.210999614997 21.8179980952759)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 26,
+  "fields": {
+    "nome": "Yên Bái",
+    "coordenadas": "SRID=4326;POINT (104.875002586245 21.7050030395471)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 27,
+  "fields": {
+    "nome": "Hai Duong",
+    "coordenadas": "SRID=4326;POINT (106.331004604367 20.9420010781784)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 28,
+  "fields": {
+    "nome": "Thái Bình",
+    "coordenadas": "SRID=4326;POINT (106.333029627905 20.4503041151189)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 29,
+  "fields": {
+    "nome": "Tuy Hòa",
+    "coordenadas": "SRID=4326;POINT (109.31599868366 13.0820040242647)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 30,
+  "fields": {
+    "nome": "Thu Dau Mot",
+    "coordenadas": "SRID=4326;POINT (106.652745546846 10.9690740774242)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 31,
+  "fields": {
+    "nome": "Đông Hà",
+    "coordenadas": "SRID=4326;POINT (107.133300660615 16.8499981032075)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 32,
+  "fields": {
+    "nome": "Cao Lãnh",
+    "coordenadas": "SRID=4326;POINT (105.635997561795 10.4670001305468)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 33,
+  "fields": {
+    "nome": "Truc Giang",
+    "coordenadas": "SRID=4326;POINT (106.374996614847 10.2349979977502)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 34,
+  "fields": {
+    "nome": "Tra Vinh",
+    "coordenadas": "SRID=4326;POINT (106.334001678919 9.93400208678969)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 35,
+  "fields": {
+    "nome": "Vĩnh Long",
+    "coordenadas": "SRID=4326;POINT (105.964002557226 10.256003996999)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 36,
+  "fields": {
+    "nome": "Cao Bằng",
+    "coordenadas": "SRID=4326;POINT (106.26800464434 22.6639980549526)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 37,
+  "fields": {
+    "nome": "Yoro",
+    "coordenadas": "SRID=4326;POINT (-87.290000538444 15.0599971060349)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 38,
+  "fields": {
+    "nome": "La Esperanza",
+    "coordenadas": "SRID=4326;POINT (-88.16669953722381 14.3330040579424)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 39,
+  "fields": {
+    "nome": "La Paz",
+    "coordenadas": "SRID=4326;POINT (-87.68400256845391 14.3199990281325)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 40,
+  "fields": {
+    "nome": "Santa Bárbara",
+    "coordenadas": "SRID=4326;POINT (-88.235999625641 14.9190030425866)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 41,
+  "fields": {
+    "nome": "Gracias",
+    "coordenadas": "SRID=4326;POINT (-88.5833005121862 14.5833030570029)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 42,
+  "fields": {
+    "nome": "Nueva Ocotepeque",
+    "coordenadas": "SRID=4326;POINT (-89.1819985473543 14.4369991193815)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 43,
+  "fields": {
+    "nome": "Yuscarán",
+    "coordenadas": "SRID=4326;POINT (-86.8509985369858 13.9439969867019)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 44,
+  "fields": {
+    "nome": "Jérémie",
+    "coordenadas": "SRID=4326;POINT (-74.1184252634085 18.6339347272196)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 45,
+  "fields": {
+    "nome": "Port-De-Paix",
+    "coordenadas": "SRID=4326;POINT (-72.8294845231228 19.9317600760915)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 46,
+  "fields": {
+    "nome": "Hinche",
+    "coordenadas": "SRID=4326;POINT (-72.0039956010702 19.1430000867162)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 47,
+  "fields": {
+    "nome": "Fort-Liberté",
+    "coordenadas": "SRID=4326;POINT (-71.84483954054031 19.6655670334989)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 48,
+  "fields": {
+    "nome": "Jacmel",
+    "coordenadas": "SRID=4326;POINT (-72.5370025809449 18.2349990263791)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 49,
+  "fields": {
+    "nome": "Kırklareli",
+    "coordenadas": "SRID=4326;POINT (27.2259996156902 41.7429991699204)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 50,
+  "fields": {
+    "nome": "Bilecik",
+    "coordenadas": "SRID=4326;POINT (29.9829965977073 40.1499990222692)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 51,
+  "fields": {
+    "nome": "Sakarya",
+    "coordenadas": "SRID=4326;POINT (30.4000025111837 40.7666611360626)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 52,
+  "fields": {
+    "nome": "Kastamonu",
+    "coordenadas": "SRID=4326;POINT (33.7830034905236 41.389002152589)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 53,
+  "fields": {
+    "nome": "Burdur",
+    "coordenadas": "SRID=4326;POINT (30.2833355385407 37.7166601109228)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 54,
+  "fields": {
+    "nome": "Kırşehir",
+    "coordenadas": "SRID=4326;POINT (34.1710026007959 39.141999165379)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 55,
+  "fields": {
+    "nome": "Nevşehir",
+    "coordenadas": "SRID=4326;POINT (34.72399851735 38.6240040356493)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 56,
+  "fields": {
+    "nome": "Antioch",
+    "coordenadas": "SRID=4326;POINT (36.1166765584394 36.2333340929276)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 191,
+  "fields": {
+    "nome": "Vossavangen",
+    "coordenadas": "SRID=4326;POINT (6.44100346282625 60.6300031647701)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 192,
+  "fields": {
+    "nome": "Leikanger",
+    "coordenadas": "SRID=4326;POINT (6.84999947074596 61.1832961244924)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 193,
+  "fields": {
+    "nome": "Bærum",
+    "coordenadas": "SRID=4326;POINT (11.347236513612 59.9134860597237)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 194,
+  "fields": {
+    "nome": "Hamar",
+    "coordenadas": "SRID=4326;POINT (11.0690015561061 60.8200020697033)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 195,
+  "fields": {
+    "nome": "Tønsberg",
+    "coordenadas": "SRID=4326;POINT (10.4210014708014 59.2640010895449)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 196,
+  "fields": {
+    "nome": "Baglung",
+    "coordenadas": "SRID=4326;POINT (83.58329762017689 28.2666960593477)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 197,
+  "fields": {
+    "nome": "Jumla",
+    "coordenadas": "SRID=4326;POINT (82.2167016240987 29.2500001278398)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 198,
+  "fields": {
+    "nome": "Bhairawa",
+    "coordenadas": "SRID=4326;POINT (83.38329953061989 27.533304089121)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 199,
+  "fields": {
+    "nome": "Dandeldhura",
+    "coordenadas": "SRID=4326;POINT (80.6000045474163 29.3000041596588)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 200,
+  "fields": {
+    "nome": "Dhangarhi",
+    "coordenadas": "SRID=4326;POINT (80.59300260282789 28.6949970599833)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 201,
+  "fields": {
+    "nome": "Ramechhap",
+    "coordenadas": "SRID=4326;POINT (86.0869985285814 27.3259980756898)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 202,
+  "fields": {
+    "nome": "Bhimphedi",
+    "coordenadas": "SRID=4326;POINT (85.1300015628772 27.5509980984143)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 203,
+  "fields": {
+    "nome": "Rajbiraj",
+    "coordenadas": "SRID=4326;POINT (86.73329760735319 26.5332961000685)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 204,
+  "fields": {
+    "nome": "Ilam",
+    "coordenadas": "SRID=4326;POINT (87.9260045327222 26.9080020734802)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 205,
+  "fields": {
+    "nome": "Wabag",
+    "coordenadas": "SRID=4326;POINT (143.718003738011 -5.49000000496426)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 206,
+  "fields": {
+    "nome": "Vanimo",
+    "coordenadas": "SRID=4326;POINT (141.303996627733 -2.69000093571668)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 207,
+  "fields": {
+    "nome": "Kundiawa",
+    "coordenadas": "SRID=4326;POINT (144.960012713517 -6.02299788323762)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 208,
+  "fields": {
+    "nome": "Kerema",
+    "coordenadas": "SRID=4326;POINT (145.837998678714 -7.92700189710717)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 209,
+  "fields": {
+    "nome": "Arawa",
+    "coordenadas": "SRID=4326;POINT (155.565990667738 -6.2280000331653)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 210,
+  "fields": {
+    "nome": "Lorengau",
+    "coordenadas": "SRID=4326;POINT (147.279996642175 -2.03200199675518)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 211,
+  "fields": {
+    "nome": "Kimbe",
+    "coordenadas": "SRID=4326;POINT (150.14301370917 -5.55000289043983)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 212,
+  "fields": {
+    "nome": "Dubăsari",
+    "coordenadas": "SRID=4326;POINT (29.1608333 47.2630556)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 213,
+  "fields": {
+    "nome": "Qacha's Nek",
+    "coordenadas": "SRID=4326;POINT (28.7019995066088 -30.1172669152714)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 214,
+  "fields": {
+    "nome": "Hudur",
+    "coordenadas": "SRID=4326;POINT (43.8667026050126 4.18329897275646)"
+  }
+},
+
+{
+  "model": "mapa.cidade",
+  "pk": 2276,
+  "fields": {
+    "nome": "Chanthaburi",
+    "coordenadas": "SRID=4326;POINT (102.097891804007 12.6132727243507)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2277,
+  "fields": {
+    "nome": "Aranyaprathet",
+    "coordenadas": "SRID=4326;POINT (102.496937214165 13.6823547556051)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2278,
+  "fields": {
+    "nome": "Rayong",
+    "coordenadas": "SRID=4326;POINT (101.281455850228 12.6718479603535)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2279,
+  "fields": {
+    "nome": "Buriram",
+    "coordenadas": "SRID=4326;POINT (103.116640990209 15.0004396758576)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2280,
+  "fields": {
+    "nome": "Chaiyaphum",
+    "coordenadas": "SRID=4326;POINT (102.038618936168 15.8040081979963)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2281,
+  "fields": {
+    "nome": "Bua Yai",
+    "coordenadas": "SRID=4326;POINT (102.41859574281 15.5840216257297)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2282,
+  "fields": {
+    "nome": "Surin",
+    "coordenadas": "SRID=4326;POINT (103.491450153622 14.8868290394639)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2283,
+  "fields": {
+    "nome": "Loei",
+    "coordenadas": "SRID=4326;POINT (101.731505899058 17.4918896677297)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2284,
+  "fields": {
+    "nome": "Nong Khai",
+    "coordenadas": "SRID=4326;POINT (102.747877969374 17.8732617380438)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2285,
+  "fields": {
+    "nome": "Sakhon Nakhon",
+    "coordenadas": "SRID=4326;POINT (104.147895873026 17.1679042754756)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2286,
+  "fields": {
+    "nome": "Udon Thani",
+    "coordenadas": "SRID=4326;POINT (102.789322468072 17.4047632028855)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2287,
+  "fields": {
+    "nome": "Lao Chi",
+    "coordenadas": "SRID=4326;POINT (103.965994831358 22.5013513376715)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2288,
+  "fields": {
+    "nome": "Hoa Binh",
+    "coordenadas": "SRID=4326;POINT (105.338314167301 20.8137024118835)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2289,
+  "fields": {
+    "nome": "Sơn Tây",
+    "coordenadas": "SRID=4326;POINT (105.505022337875 21.1381787302442)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2290,
+  "fields": {
+    "nome": "Ninh Bình",
+    "coordenadas": "SRID=4326;POINT (105.975019489569 20.2543050323241)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2291,
+  "fields": {
+    "nome": "Việt Trì",
+    "coordenadas": "SRID=4326;POINT (105.429988158187 21.33041505837)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2292,
+  "fields": {
+    "nome": "Bắc Giang",
+    "coordenadas": "SRID=4326;POINT (106.200018675768 21.267008075948)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2293,
+  "fields": {
+    "nome": "Nakhon Phanom",
+    "coordenadas": "SRID=4326;POINT (104.769460000632 17.3944795928594)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2294,
+  "fields": {
+    "nome": "Hà Tĩnh",
+    "coordenadas": "SRID=4326;POINT (105.900036986314 18.3337762644127)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2295,
+  "fields": {
+    "nome": "Buon Me Thuot",
+    "coordenadas": "SRID=4326;POINT (108.049983275385 12.6670420521504)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2296,
+  "fields": {
+    "nome": "Da Lat",
+    "coordenadas": "SRID=4326;POINT (108.419986530595 11.930420348046)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2297,
+  "fields": {
+    "nome": "Phan Rang",
+    "coordenadas": "SRID=4326;POINT (108.983311319008 11.5670316761695)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2298,
+  "fields": {
+    "nome": "Hon Quan",
+    "coordenadas": "SRID=4326;POINT (106.600045938139 11.6503857614563)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2299,
+  "fields": {
+    "nome": "Kon Tum",
+    "coordenadas": "SRID=4326;POINT (107.983320677728 14.3837589711026)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2300,
+  "fields": {
+    "nome": "Quảng Ngãi",
+    "coordenadas": "SRID=4326;POINT (108.829987344398 15.1504305205848)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2301,
+  "fields": {
+    "nome": "Quảng Trị",
+    "coordenadas": "SRID=4326;POINT (107.200009317048 16.7503587025574)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2302,
+  "fields": {
+    "nome": "Narathiwat",
+    "coordenadas": "SRID=4326;POINT (101.821422891245 6.43184124646149)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2303,
+  "fields": {
+    "nome": "Vung Tau",
+    "coordenadas": "SRID=4326;POINT (107.084977578766 10.3553743682219)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2304,
+  "fields": {
+    "nome": "Phan Thiet",
+    "coordenadas": "SRID=4326;POINT (108.100057738276 10.9337369984325)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2305,
+  "fields": {
+    "nome": "Long Xuyen",
+    "coordenadas": "SRID=4326;POINT (105.420014606754 10.3803857614513)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2306,
+  "fields": {
+    "nome": "Châu Đốc",
+    "coordenadas": "SRID=4326;POINT (105.116673949201 10.7003920684186)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2307,
+  "fields": {
+    "nome": "Rạch Giá",
+    "coordenadas": "SRID=4326;POINT (105.091352497378 10.0153951201738)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2308,
+  "fields": {
+    "nome": "Tan An",
+    "coordenadas": "SRID=4326;POINT (106.416697956368 10.5337355742774)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2309,
+  "fields": {
+    "nome": "Mỹ Tho",
+    "coordenadas": "SRID=4326;POINT (106.350035358711 10.350413430722)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2310,
+  "fields": {
+    "nome": "Bạc Liêu",
+    "coordenadas": "SRID=4326;POINT (105.719996296209 9.28037538547022)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2311,
+  "fields": {
+    "nome": "Cà Mau",
+    "coordenadas": "SRID=4326;POINT (105.150005248029 9.17735841769638)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2312,
+  "fields": {
+    "nome": "Sóc Trăng",
+    "coordenadas": "SRID=4326;POINT (105.980032103502 9.60374066053663)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2313,
+  "fields": {
+    "nome": "Ha Giang",
+    "coordenadas": "SRID=4326;POINT (104.983348753888 22.8336566355245)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2314,
+  "fields": {
+    "nome": "Kawambwa",
+    "coordenadas": "SRID=4326;POINT (29.0800231513709 -9.77952065138987)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2315,
+  "fields": {
+    "nome": "Nchelenge",
+    "coordenadas": "SRID=4326;POINT (28.7300186754581 -9.349572734721511)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2316,
+  "fields": {
+    "nome": "Chinsali",
+    "coordenadas": "SRID=4326;POINT (32.0599962959142 -10.5496028454034)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2317,
+  "fields": {
+    "nome": "Kasama",
+    "coordenadas": "SRID=4326;POINT (31.1799466539836 -10.1995983694906)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2318,
+  "fields": {
+    "nome": "Kapiri Mposhi",
+    "coordenadas": "SRID=4326;POINT (28.6599971097027 -13.9696008109119)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2319,
+  "fields": {
+    "nome": "Mumbwa",
+    "coordenadas": "SRID=4326;POINT (27.0700166409463 -14.9796166800566)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2320,
+  "fields": {
+    "nome": "Chingola",
+    "coordenadas": "SRID=4326;POINT (27.8500207099598 -12.5396105765311)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2321,
+  "fields": {
+    "nome": "Chililabombwe",
+    "coordenadas": "SRID=4326;POINT (27.8199967027983 -12.3695951142908)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2322,
+  "fields": {
+    "nome": "Nyimba",
+    "coordenadas": "SRID=4326;POINT (30.809995075206 -14.5495137340913)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2323,
+  "fields": {
+    "nome": "Lundazi",
+    "coordenadas": "SRID=4326;POINT (33.1700060615437 -12.2895483206708)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2324,
+  "fields": {
+    "nome": "Chipata",
+    "coordenadas": "SRID=4326;POINT (32.6400125719581 -13.6295698864313)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2325,
+  "fields": {
+    "nome": "Mwinilunga",
+    "coordenadas": "SRID=4326;POINT (24.4399962958837 -11.7395560517884)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2326,
+  "fields": {
+    "nome": "Kasempa",
+    "coordenadas": "SRID=4326;POINT (25.8200154202382 -13.4596061006234)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2327,
+  "fields": {
+    "nome": "Solwezi",
+    "coordenadas": "SRID=4326;POINT (26.3999800198499 -12.1795808727536)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2328,
+  "fields": {
+    "nome": "Choma",
+    "coordenadas": "SRID=4326;POINT (26.9700227444616 -16.8094791475118)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2329,
+  "fields": {
+    "nome": "Mongu",
+    "coordenadas": "SRID=4326;POINT (23.1200251858524 -15.2795983695108)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2330,
+  "fields": {
+    "nome": "Kaoma",
+    "coordenadas": "SRID=4326;POINT (24.7999743232289 -14.779628887087)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2331,
+  "fields": {
+    "nome": "Sesheke",
+    "coordenadas": "SRID=4326;POINT (24.3000048408051 -17.4695422171758)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2332,
+  "fields": {
+    "nome": "Lukulu",
+    "coordenadas": "SRID=4326;POINT (23.240017861634 -14.3895751761478)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2333,
+  "fields": {
+    "nome": "Kalabo",
+    "coordenadas": "SRID=4326;POINT (22.680000364887 -14.9895902314888)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2334,
+  "fields": {
+    "nome": "Senanga",
+    "coordenadas": "SRID=4326;POINT (23.2700418687956 -16.1195987764152)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2335,
+  "fields": {
+    "nome": "Mazowe",
+    "coordenadas": "SRID=4326;POINT (30.970036986014 -17.5196166800667)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2336,
+  "fields": {
+    "nome": "Shamva",
+    "coordenadas": "SRID=4326;POINT (31.5700003649226 -17.3196288870971)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2337,
+  "fields": {
+    "nome": "Victoria Falls",
+    "coordenadas": "SRID=4326;POINT (25.8400141995352 -17.9296174938704)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2338,
+  "fields": {
+    "nome": "Zvishavane",
+    "coordenadas": "SRID=4326;POINT (30.0499897854894 -20.3295743623696)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2339,
+  "fields": {
+    "nome": "Kwekwe",
+    "coordenadas": "SRID=4326;POINT (29.7999792060614 -18.9296081351505)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2340,
+  "fields": {
+    "nome": "Plumtree",
+    "coordenadas": "SRID=4326;POINT (27.8199967027983 -20.4795393688806)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2341,
+  "fields": {
+    "nome": "Beitbridge",
+    "coordenadas": "SRID=4326;POINT (29.9899934475986 -22.2096146455802)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2342,
+  "fields": {
+    "nome": "Gwanda",
+    "coordenadas": "SRID=4326;POINT (29.0100015856156 -20.9396146455752)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2343,
+  "fields": {
+    "nome": "Chiredzi",
+    "coordenadas": "SRID=4326;POINT (31.6600207099751 -21.0495820934922)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2344,
+  "fields": {
+    "nome": "Masvingo",
+    "coordenadas": "SRID=4326;POINT (30.8200203030707 -20.0596166800769)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2345,
+  "fields": {
+    "nome": "Karoi",
+    "coordenadas": "SRID=4326;POINT (29.6799865302796 -16.8195560518087)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2346,
+  "fields": {
+    "nome": "Chinhoyi",
+    "coordenadas": "SRID=4326;POINT (30.1800076891358 -17.359626445691)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2347,
+  "fields": {
+    "nome": "Kariba",
+    "coordenadas": "SRID=4326;POINT (28.8000402412137 -16.5295995902189)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2348,
+  "fields": {
+    "nome": "Golela",
+    "coordenadas": "SRID=4326;POINT (31.9000060615385 -27.2961775525016)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2349,
+  "fields": {
+    "nome": "Luganville",
+    "coordenadas": "SRID=4326;POINT (167.176606810778 -15.5125557262826)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2350,
+  "fields": {
+    "nome": "Trujillo",
+    "coordenadas": "SRID=4326;POINT (-85.9600091977221 15.9103582956531)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2351,
+  "fields": {
+    "nome": "Brus Laguna",
+    "coordenadas": "SRID=4326;POINT (-84.47999617688281 15.7504197377096)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2352,
+  "fields": {
+    "nome": "Puerto Lempira",
+    "coordenadas": "SRID=4326;POINT (-83.7716414812419 15.2620257761192)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2353,
+  "fields": {
+    "nome": "Juticalpa",
+    "coordenadas": "SRID=4326;POINT (-86.2299668800148 14.6704081410257)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2354,
+  "fields": {
+    "nome": "Comayagua",
+    "coordenadas": "SRID=4326;POINT (-87.6499835629632 14.4603951201915)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2355,
+  "fields": {
+    "nome": "Choluteca",
+    "coordenadas": "SRID=4326;POINT (-87.19081262383369 13.3006726266973)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2356,
+  "fields": {
+    "nome": "Kumaka",
+    "coordenadas": "SRID=4326;POINT (-58.3800130631716 3.90039369599555)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2357,
+  "fields": {
+    "nome": "Bartica",
+    "coordenadas": "SRID=4326;POINT (-58.6300236425997 6.41042136527642)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2358,
+  "fields": {
+    "nome": "Anna Regina",
+    "coordenadas": "SRID=4326;POINT (-58.5000574153856 7.27042055147774)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2359,
+  "fields": {
+    "nome": "Egilsstaðir",
+    "coordenadas": "SRID=4326;POINT (-14.3949976007561 65.2674231151864)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2360,
+  "fields": {
+    "nome": "Sauðárkrókur",
+    "coordenadas": "SRID=4326;POINT (-19.6389927586547 65.7464119660998)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2361,
+  "fields": {
+    "nome": "Selfoss",
+    "coordenadas": "SRID=4326;POINT (-20.9969460464205 63.9334218537878)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2362,
+  "fields": {
+    "nome": "Lorca",
+    "coordenadas": "SRID=4326;POINT (-1.69851159810105 37.6885638621464)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2363,
+  "fields": {
+    "nome": "Cartagena",
+    "coordenadas": "SRID=4326;POINT (-0.980028321731083 37.6004297068726)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2364,
+  "fields": {
+    "nome": "Oviedo",
+    "coordenadas": "SRID=4326;POINT (-5.82999068340405 43.3504921662055)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2365,
+  "fields": {
+    "nome": "Santiago de Compostela",
+    "coordenadas": "SRID=4326;POINT (-8.5410913507327 42.8828979686124)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2366,
+  "fields": {
+    "nome": "Badajoz",
+    "coordenadas": "SRID=4326;POINT (-6.96997277976283 38.8804290965262)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2367,
+  "fields": {
+    "nome": "Logroño",
+    "coordenadas": "SRID=4326;POINT (-2.42999149719259 42.4703650096265)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2368,
+  "fields": {
+    "nome": "San Sebastián",
+    "coordenadas": "SRID=4326;POINT (-1.97999312479499 43.3203906443954)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2369,
+  "fields": {
+    "nome": "Maridi",
+    "coordenadas": "SRID=4326;POINT (29.476949827805 4.9151121204788)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2370,
+  "fields": {
+    "nome": "Yei",
+    "coordenadas": "SRID=4326;POINT (30.6800288479919 4.09038209931663)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2371,
+  "fields": {
+    "nome": "Melut",
+    "coordenadas": "SRID=4326;POINT (32.2000394274251 10.4336900013602)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2372,
+  "fields": {
+    "nome": "Nasir",
+    "coordenadas": "SRID=4326;POINT (33.0666015205275 8.60039105115766)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2373,
+  "fields": {
+    "nome": "Gogrial",
+    "coordenadas": "SRID=4326;POINT (28.1166711005858 8.533728453501061)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2374,
+  "fields": {
+    "nome": "El Manaqil",
+    "coordenadas": "SRID=4326;POINT (32.9799918200064 14.2503820993572)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2375,
+  "fields": {
+    "nome": "Shendi",
+    "coordenadas": "SRID=4326;POINT (33.4200166409717 16.6804921660988)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2376,
+  "fields": {
+    "nome": "Berber",
+    "coordenadas": "SRID=4326;POINT (33.9832897529531 18.0170255726796)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2377,
+  "fields": {
+    "nome": "Kerma",
+    "coordenadas": "SRID=4326;POINT (30.416582396168 19.6336969187148)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2378,
+  "fields": {
+    "nome": "Ed Dueim",
+    "coordenadas": "SRID=4326;POINT (32.2999816474776 13.9903979684969)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2379,
+  "fields": {
+    "nome": "Umm Ruwaba",
+    "coordenadas": "SRID=4326;POINT (31.1999971097127 12.9104380482452)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2380,
+  "fields": {
+    "nome": "Kapoeta",
+    "coordenadas": "SRID=4326;POINT (33.5902388089411 4.77212343232719)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2381,
+  "fields": {
+    "nome": "Les Cayes",
+    "coordenadas": "SRID=4326;POINT (-73.7499792904466 18.2003735544512)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2382,
+  "fields": {
+    "nome": "Gonaïves",
+    "coordenadas": "SRID=4326;POINT (-72.6832485368616 19.4504264515916)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2383,
+  "fields": {
+    "nome": "Ayr",
+    "coordenadas": "SRID=4326;POINT (-4.61667972962317 55.4503995962668)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2384,
+  "fields": {
+    "nome": "Aberdeen",
+    "coordenadas": "SRID=4326;POINT (-2.07998702127969 57.1703979686696)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2385,
+  "fields": {
+    "nome": "Perth",
+    "coordenadas": "SRID=4326;POINT (-3.46997969706649 56.4003416128723)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2386,
+  "fields": {
+    "nome": "Dundee",
+    "coordenadas": "SRID=4326;POINT (-3.00000838358812 56.4703890168439)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2387,
+  "fields": {
+    "nome": "Middlesbrough",
+    "coordenadas": "SRID=4326;POINT (-1.23001306294304 54.580375182201)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2388,
+  "fields": {
+    "nome": "Coventry",
+    "coordenadas": "SRID=4326;POINT (-1.49999658345183 52.4204036652653)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2389,
+  "fields": {
+    "nome": "Bath",
+    "coordenadas": "SRID=4326;POINT (-2.35002221822089 51.3837485952741)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2390,
+  "fields": {
+    "nome": "Exeter",
+    "coordenadas": "SRID=4326;POINT (-3.52995019674125 50.7004052928625)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2391,
+  "fields": {
+    "nome": "Cambridge",
+    "coordenadas": "SRID=4326;POINT (0.11662308615098 52.2003912547825)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2392,
+  "fields": {
+    "nome": "Kingston upon Hull",
+    "coordenadas": "SRID=4326;POINT (-0.329990479931553 53.7504258413774)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2393,
+  "fields": {
+    "nome": "Londonderry",
+    "coordenadas": "SRID=4326;POINT (-7.33328393699082 55.0003753856532)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2394,
+  "fields": {
+    "nome": "Lisburn",
+    "coordenadas": "SRID=4326;POINT (-6.6700169285246 54.5203788443101)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2395,
+  "fields": {
+    "nome": "Penzance",
+    "coordenadas": "SRID=4326;POINT (-5.55003361146288 50.1337215363498)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2396,
+  "fields": {
+    "nome": "York",
+    "coordenadas": "SRID=4326;POINT (-1.08002221821584 53.9703865754276)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2397,
+  "fields": {
+    "nome": "Blackpool",
+    "coordenadas": "SRID=4326;POINT (-3.0500053318305 53.830395120349)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2398,
+  "fields": {
+    "nome": "Dumfries",
+    "coordenadas": "SRID=4326;POINT (-3.55000065247049 55.067089659742)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2399,
+  "fields": {
+    "nome": "Scarborough",
+    "coordenadas": "SRID=4326;POINT (-0.429984376416371 54.2803934927466)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2400,
+  "fields": {
+    "nome": "Plymouth",
+    "coordenadas": "SRID=4326;POINT (-4.15998925924379 50.3853857616112)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2401,
+  "fields": {
+    "nome": "Söke",
+    "coordenadas": "SRID=4326;POINT (27.410254271156 37.7512215363002)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2402,
+  "fields": {
+    "nome": "Balıkesir",
+    "coordenadas": "SRID=4326;POINT (27.8900182685537 39.650382099459)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2403,
+  "fields": {
+    "nome": "Çanakkale",
+    "coordenadas": "SRID=4326;POINT (26.4063878974541 40.1459332469219)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2404,
+  "fields": {
+    "nome": "Edirne",
+    "coordenadas": "SRID=4326;POINT (26.5699954820902 41.6704396759644)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2405,
+  "fields": {
+    "nome": "Tekirdağ",
+    "coordenadas": "SRID=4326;POINT (27.5099897854793 40.9908687531101)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2406,
+  "fields": {
+    "nome": "İzmit",
+    "coordenadas": "SRID=4326;POINT (29.9306172268952 40.7760239858566)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2407,
+  "fields": {
+    "nome": "Bolu",
+    "coordenadas": "SRID=4326;POINT (31.6061221910947 40.736258971208)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2408,
+  "fields": {
+    "nome": "Afyon",
+    "coordenadas": "SRID=4326;POINT (30.5500109443457 38.7503853546636)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2409,
+  "fields": {
+    "nome": "Denizli",
+    "coordenadas": "SRID=4326;POINT (29.0800231513709 37.7703934926806)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2410,
+  "fields": {
+    "nome": "Manisa",
+    "coordenadas": "SRID=4326;POINT (27.4399682197237 38.6303926788819)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2411,
+  "fields": {
+    "nome": "Adıyaman",
+    "coordenadas": "SRID=4326;POINT (38.2799267158609 37.7703934926806)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 2412,
+  "fields": {
+    "nome": "Malatya",
+    "coordenadas": "SRID=4326;POINT (38.3000288480225 38.3704343862376)"
+  }
+},
+{
+  "model": "mapa.cidade",
+  "pk": 7344,
+  "fields": {
+    "nome": "Turangi",
+    "coordenadas": "SRID=4326;POINT (175.814241436378 -38.9888881366534)"
+  }
+}
+]

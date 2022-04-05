@@ -1,0 +1,13 @@
+podman run --pod=djangoproj --rm -it -v ~/"Área de Trabalho"/Django/teste:/Django/teste --name django localhost/django
+
+podman run --pod=djangoproj -e 'PGADMIN_DEFAULT_EMAIL=teste@testemail.com' -e 'PGADMIN_DEFAULT_PASSWORD=senha123' --name pgadmin -d docker.io/dpage/pgadmin4:latest
+
+podman run --pod=djangoproj -e 'POSTGRES_USER=admin' -e 'POSTGRES_PASSWORD=senha123' -v ~/"Área de Trabalho"/PostgisDB:/var/lib/postgresql/data --name postgis -d docker.io/postgis/postgis
+
+podman pod create --name djangoproj -p 9876:80 -p 5432:5432 -p 8000:8000
+
+podman build -t django .  /* Rodar na pasta em que se encontra o Dockerfile */
+
+
+https://www.vivaolinux.com.br/dica/Rodando-PostgreSQL-PGAdmin-via-Podman
+https://developers.redhat.com/blog/2019/09/11/develop-with-django-2-and-python-3-in-a-container-with-red-hat-enterprise-linux#setting_up_your_database

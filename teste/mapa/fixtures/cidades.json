@@ -1,0 +1,701 @@
+{"type": "FeatureCollection", "crs": {"type": "name", "properties": {"name": "EPSG:4326"}}, "features": [
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Aberdeen",
+    "pk": "2384"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.07998702127969,
+      57.1703979686696
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Adıyaman",
+    "pk": "2411"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.2799267158609,
+      37.7703934926806
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Afyon",
+    "pk": "2408"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.5500109443457,
+      38.7503853546636
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Anna Regina",
+    "pk": "2358"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.5000574153856,
+      7.27042055147774
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Antioch",
+    "pk": "56"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1166765584394,
+      36.2333340929276
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Aranyaprathet",
+    "pk": "2277"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.496937214165,
+      13.6823547556051
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Arawa",
+    "pk": "209"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      155.565990667738,
+      -6.2280000331653
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Ayr",
+    "pk": "2383"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.61667972962317,
+      55.4503995962668
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Bắc Giang",
+    "pk": "2292"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.200018675768,
+      21.267008075948
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Bắc Kạn",
+    "pk": "22"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      105.8333333,
+      22.1333333
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Bạc Liêu",
+    "pk": "2310"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      105.719996296209,
+      9.28037538547022
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Badajoz",
+    "pk": "2366"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.96997277976283,
+      38.8804290965262
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Bærum",
+    "pk": "193"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.347236513612,
+      59.9134860597237
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Baglung",
+    "pk": "196"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.5832976201769,
+      28.2666960593477
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Balıkesir",
+    "pk": "2402"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.8900182685537,
+      39.650382099459
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Bartica",
+    "pk": "2357"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -58.6300236425997,
+      6.41042136527642
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Bassar",
+    "pk": "7"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.789003573778132,
+      9.26100006831723
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Bath",
+    "pk": "2389"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.35002221822089,
+      51.3837485952741
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Beitbridge",
+    "pk": "2341"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.9899934475986,
+      -22.2096146455802
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Berber",
+    "pk": "2376"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.9832897529531,
+      18.0170255726796
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Bhairawa",
+    "pk": "198"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.3832995306199,
+      27.533304089121
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Bhimphedi",
+    "pk": "202"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.1300015628772,
+      27.5509980984143
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Bilecik",
+    "pk": "50"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.9829965977073,
+      40.1499990222692
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Blackpool",
+    "pk": "2397"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.0500053318305,
+      53.830395120349
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Bolu",
+    "pk": "2407"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.6061221910947,
+      40.736258971208
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Brus Laguna",
+    "pk": "2351"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.4799961768828,
+      15.7504197377096
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Bua Yai",
+    "pk": "2281"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.41859574281,
+      15.5840216257297
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Buon Me Thuot",
+    "pk": "2295"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      108.049983275385,
+      12.6670420521504
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Burdur",
+    "pk": "53"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.2833355385407,
+      37.7166601109228
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Buriram",
+    "pk": "2279"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.116640990209,
+      15.0004396758576
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Cà Mau",
+    "pk": "2311"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      105.150005248029,
+      9.17735841769638
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Cambridge",
+    "pk": "2391"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.11662308615098,
+      52.2003912547825
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Çanakkale",
+    "pk": "2403"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.4063878974541,
+      40.1459332469219
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Canelones",
+    "pk": "5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -56.2840014932431,
+      -34.5380040066755
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Cao Bằng",
+    "pk": "36"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.26800464434,
+      22.6639980549526
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Cao Lãnh",
+    "pk": "32"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      105.635997561795,
+      10.4670001305468
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Cartagena",
+    "pk": "2363"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.980028321731083,
+      37.6004297068726
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Chaiyaphum",
+    "pk": "2280"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.038618936168,
+      15.8040081979963
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Chanthaburi",
+    "pk": "2276"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.097891804007,
+      12.6132727243507
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Châu Đốc",
+    "pk": "2306"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      105.116673949201,
+      10.7003920684186
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Chililabombwe",
+    "pk": "2321"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.8199967027983,
+      -12.3695951142908
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Chingola",
+    "pk": "2320"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.8500207099598,
+      -12.5396105765311
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Chinhoyi",
+    "pk": "2346"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.1800076891358,
+      -17.359626445691
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Chinsali",
+    "pk": "2316"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.0599962959142,
+      -10.5496028454034
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Chipata",
+    "pk": "2324"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.6400125719581,
+      -13.6295698864313
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Chiredzi",
+    "pk": "2343"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.6600207099751,
+      -21.0495820934922
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Choluteca",
+    "pk": "2355"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.1908126238337,
+      13.3006726266973
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Choma",
+    "pk": "2328"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.9700227444616,
+      -16.8094791475118
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Colonia del Sacramento",
+    "pk": "2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.8400024734013,
+      -34.4799990054175
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nome": "Comayagua",
+    "pk": "2354"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.6499835629632,
+      14.4603951201915
+    ]
+  }
+}]}

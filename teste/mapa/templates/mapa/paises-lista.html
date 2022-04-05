@@ -1,0 +1,41 @@
+{% load leaflet_tags %}
+{% leaflet_css %}
+{% leaflet_js %}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"></script>
+
+<style>
+    .leaflet-container {  /* all maps */
+        width:  1800px;
+        height: 990px;
+    }
+</style>
+
+
+<div>
+    <h1>MAPA</h1>
+    {% leaflet_map "main" callback="map_init" %}
+</div>
+
+<script type="text/javascript">
+
+    
+
+    var onEachFeature = function(feature, layer) {
+        if (feature.properties && feature.properties.area && feature.properties.pop2005 && feature.properties.un) {
+            layer.bindPopup(`<b>${feature.properties.name}</b><br>Area: ${feature.properties.area}<br>População: ${feature.properties.pop2005}<br>United Nations Code: ${feature.properties.un}`);
+            console.log(`<b>${feature.properties.name}</b><br>Area: ${feature.properties.area}<br>População: ${feature.properties.pop2005}<br>United Nations Code: ${feature.properties.un}`)
+        }
+    }
+
+    function map_init(map, options) {
+        axios.get('geo')
+        // .then((response) => console.log(response.data))
+        .then((response) => L.geoJSON(response.data, {onEachFeature: onEachFeature}).addTo(map))
+        .catch(errors => console.log(errors));
+        
+        // zoom to point & add it to map
+        map.setView([51.505, -0.09], 13);
+    }
+
+</script>
