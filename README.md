@@ -1,2 +1,2 @@
 # geodjango-AplicacaoSimples
-Fazer Readme
+Aplicação simples, feita utilizando Leaflet, Geodjango e Postgis.
